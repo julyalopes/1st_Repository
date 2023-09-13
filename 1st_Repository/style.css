@@ -1,0 +1,23 @@
+
+
+.div_card {
+    width: 500px;
+    height: fit-content;
+    background-color: antiquewhite;
+    border: solid 5px #310d13;
+    border-radius: 25px;
+    margin: 20px;
+}
+
+.div_circle{
+width: 100px;
+height: 100px;
+background-color: pink;
+border-radius: 50px;;
+
+}
+
+.h1_text{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 30px;
+}
